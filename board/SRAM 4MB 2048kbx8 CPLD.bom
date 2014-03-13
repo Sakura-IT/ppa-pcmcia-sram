@@ -1,0 +1,38 @@
+Partlist
+
+Exported from SRAM 4MB 2048kbx8 CPLD proto.sch at 2014-03-13 15:45:52
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                  Device                 Package            Library                                 Sheet
+
+C1       1uF/6,3V               CPOL-EUB               PANASONIC_B        capacitor                               1
+C2       1uF/6,3V               CPOL-EUB               PANASONIC_B        capacitor                               1
+C3       0,1uF                  C-EUC0603              C0603              capacitor                               1
+C4       0,1uF                  C-EUC0603              C0603              capacitor                               1
+C5       0,1uF                  C-EUC0603              C0603              capacitor                               1
+C6       0,1uF                  C-EUC0603              C0603              capacitor                               1
+C7       0,1uF                  C-EUC0603              C0603              capacitor                               1
+C9       0,1uF                  C-EUC0603              C0603              capacitor                               1
+C10      0,1uF                  C-EUC0603              C0603              capacitor                               1
+C11      0,1uF                  C-EUC0603              C0603              capacitor                               1
+C12      0,1uF                  C-EUC0603              C0603              capacitor                               1
+C13      0,1uF                  C-EUC0603              C0603              capacitor                               1
+IC1      M48Z02-70PC1           M48Z02-70PC1           DIP254P1524X965-24 ST Microelctronics_By_element14_Batch_1 1
+IC2      74LS245DW              74LS245DW              SO20W              74xx-us                                 1
+IC3      74LS245DW              74LS245DW              SO20W              74xx-us                                 1
+IC4      74LS245DW              74LS245DW              SO20W              74xx-us                                 1
+IC5      XC9536_44PLCC          XC9536_44PLCC          PLCC44             xilinx-xc9                              1
+IC6      BS62LV1600EIP55-10ZSXI BS62LV1600EIP55-10ZSXI TSOPII-Z44         BSI_By_element14_Batch_1                1
+IC7      BS62LV1600EIP55-10ZSXI BS62LV1600EIP55-10ZSXI TSOPII-Z44         BSI_By_element14_Batch_1                1
+IC8      LD6815TD/33H           LD6815TD/33H           SOT95P275X110-5N   NXP                                     1
+SV1      JTAG                   MA06-1                 MA06-1             con-lstb                                1
+SV2                             MA06-1                 MA06-1             con-lstb                                1
+SV3                             MA06-1                 MA06-1             con-lstb                                1
+SV4      RAM/DISK               MA03-1                 MA03-1             con-lstb                                1
+SV5      ROM IN/OUT             MA03-1                 MA03-1             con-lstb                                1
+SV6                             MA08-1                 MA08-1             con-lstb                                1
+SV7                             MA05-1                 MA05-1             con-lstb                                1
+X1       PCMCIA female          9M681X03TB9M681Z04     9M681X04           FCI                                     1
