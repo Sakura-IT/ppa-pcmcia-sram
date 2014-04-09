@@ -1,0 +1,31 @@
+# control signals from PCMCIA
+NET "ce1" LOC = "42";
+NET "ce2" LOC = "1";
+NET "a0" LOC = "44"; # address bus bit 0
+NET "reg" LOC = "43";
+NET "oe" LOC = "22";
+
+# control signals to memory
+NET "oe_even" LOC = "33";
+NET "oe_oddlow" LOC = "29";
+NET "oe_odd" LOC = "28";
+NET "ce_upp" LOC = "27";
+NET "ce_low" LOC = "26";
+NET "ce_attr_external" LOC = "25";
+
+# address bus (in fact A1-A5)
+NET "addr<0>" LOC = "11";
+NET "addr<1>" LOC = "12";
+NET "addr<2>" LOC = "13";
+NET "addr<3>" LOC = "14";
+NET "addr<4>" LOC = "18";
+
+# lowest 8 bits of data bus
+NET "data<0>" LOC = "2";
+NET "data<1>" LOC = "3";
+NET "data<2>" LOC = "4";
+NET "data<3>" LOC = "5";
+NET "data<4>" LOC = "6";
+NET "data<5>" LOC = "7";
+NET "data<6>" LOC = "8";
+NET "data<7>" LOC = "9";
