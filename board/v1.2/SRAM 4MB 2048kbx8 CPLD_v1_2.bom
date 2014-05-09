@@ -1,0 +1,26 @@
+Partlist exported from C:/Users/jbielinski/Documents/eagle/SRAM PCMCIA/SRAM 4MB 2048kbx8 CPLD_v1_2.sch at 2014-05-09 17:08:08
+
+Part Value                  Device                 Package          Description                                           MF MPN             OC_FARNELL OC_NEWARK PACKAGE SUPPLIER
+C1   1uF/16V                CPOL-EUA/3216-18R      A/3216-18R       POLARIZED CAPACITOR, European symbol                                                                          
+C2   1uF/16V                CPOL-EUA/3216-18R      A/3216-18R       POLARIZED CAPACITOR, European symbol                                                                          
+C3   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C4   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C5   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C6   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C7   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C8   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C9   0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C10  0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C11  0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C12  0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+C13  0,1uF                  C-EUC0603              C0603            CAPACITOR, European symbol                                                                                    
+IC1  LD6815TD/33H           LD6815TD/33H           SOT95P275X110-5N LDO, 5.5V, 0.25VDO, 0.15A, 3.3V, 5TSOP                   LD6815TD/33H    2308302    69W9575   TSOP-5  NXP     
+IC2  74LS245MTC             74LS245MTC             TSSOP20          Octal BUS TRANSCEIVER, 3-state                                                                                
+IC3  74LS245MTC             74LS245MTC             TSSOP20          Octal BUS TRANSCEIVER, 3-state                                                                                
+IC4  74LS245MTC             74LS245MTC             TSSOP20          Octal BUS TRANSCEIVER, 3-state                                                                                
+IC5  XC9536XL_44VQ          XC9536XL_44VQ          SQFP-S-10X10-44  xc9536_pc44 XC9500 In-System Programmable CPLD Family    XC9536-15VQG44C 1193227    98K3377                   
+IC6  LY62W20488ML-55LL      LY62W20488ML-55LL      TSOPII-Z44       Source: CYPRESS cy7c1059dv33_8.pdf                                                                            
+IC7  LY62W20488ML-55LL      LY62W20488ML-55LL      TSOPII-Z44       Source: CYPRESS cy7c1059dv33_8.pdf                                                                            
+SV1  JTAG                   MA06-1                 MA06-1           PIN HEADER                                                               unknown    unknown                   
+SW1  RAM/Disk               AYZ0102AGRLC           SWITCH2          SWITCH                                                                                                        
+X1   PCMCIA female          FCI10014744-002SLF     9M681X04                                                                                                                       
