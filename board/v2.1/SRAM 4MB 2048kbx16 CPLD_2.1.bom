@@ -1,0 +1,29 @@
+Partlist exported from C:/Users/jbielinski/Documents/eagle/SRAM PCMCIA/SRAM 4MB 2048kbx16 CPLD 2.1.sch at 2014-05-09 16:13:02
+
+Part Value         Device             Package          Description                                                MF MPN             OC_FARNELL OC_NEWARK PACKAGE   SUPPLIER         
+C1   1uF/16V       CPOL-EUA/3216-18R  A/3216-18R       POLARIZED CAPACITOR, European symbol                                                                                          
+C2   1uF/16V       CPOL-EUA/3216-18R  A/3216-18R       POLARIZED CAPACITOR, European symbol                                                                                          
+C3   0,1uF         C-EUC0603          C0603            CAPACITOR, European symbol                                                                                                    
+C4   0,1uF         C-EUC0603          C0603            CAPACITOR, European symbol                                                                                                    
+C5   0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C6   0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C7   0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C8   0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C9   0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C10  0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C11  0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C12  0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C13  0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+C14  0,1uF         C-EUC0402K         C0402K           CAPACITOR, European symbol                                                                                                    
+IC1  AS6C3216-55   AS6C3216-55        TSOP-48          SRAM memory 32Mb (2MB x 16 lub 4MB x 8)                                                                                       
+IC2  74LCX245MTC   74LCX245MTC        TSSOP20          Octal BUS TRANSCEIVER, 3-state                                                                                                
+IC3  74LCX245MTC   74LCX245MTC        TSSOP20          Octal BUS TRANSCEIVER, 3-state                                                                                                
+IC4  74LCX245MTC   74LCX245MTC        TSSOP20          Octal BUS TRANSCEIVER, 3-state                                                                                                
+IC5  74LCX541TTR   74LCX541TTR        TSSOP20          Octal BUFFER and LINE DRIVER, 3-state                                                                                         
+IC6  74LCX541TTR   74LCX541TTR        TSSOP20          Octal BUFFER and LINE DRIVER, 3-state                                                                                         
+IC7  74LCX541TTR   74LCX541TTR        TSSOP20          Octal BUFFER and LINE DRIVER, 3-state                                                                                         
+IC8  XC9536XL_44VQ XC9536XL_44VQ      SQFP-S-10X10-44  xc9536_pc44 XC9500 In-System Programmable CPLD Family         XC9536-15VQG44C 1193227    98K3377                              
+IC9  TLV70033DDCT  TLV70033DDCT       SOT95P280X110-5N 200-mA, Low-IQ, Low-Dropout Regulator for Portable Devices    TLV70033DDCT    1778230    50R4446   TSOT-23-5 Texas Instruments
+SV1  JTAG          MA06-1             MA06-1           PIN HEADER                                                                    unknown    unknown                              
+SW1  RAM/Disk      AYZ0102AGRLC       SWITCH2          SWITCH                                                                                                                        
+X1   PCMCIA female FCI10014744-002SLF 68PIN PCMCIA                                                                                                                                       
