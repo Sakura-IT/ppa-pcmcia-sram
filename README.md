@@ -3,6 +3,7 @@ ppa-pcmcia-sram
 
 PCMCIA SRAM card created on ppa.pl forum.
 
+* docs - documentatio (TeX)
 * board - electrical schematics and board layout (Eagle, Gerber)
 * src - CPLD core source (VHDL)
 
