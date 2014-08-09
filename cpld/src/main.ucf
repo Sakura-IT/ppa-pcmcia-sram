@@ -3,7 +3,10 @@ NET "ce1" LOC = "42";
 NET "ce2" LOC = "1";
 NET "a0" LOC = "44"; # address bus bit 0
 NET "reg" LOC = "43";
-NET "oe" LOC = "22";
+NET "oe_rom" LOC = "22";  # OE from PCMCIA in fact only used by ROM
+
+# switches/jumpers
+NET "sw_rom" LOC = "20";
 
 # control signals to memory
 NET "oe_even" LOC = "33";
