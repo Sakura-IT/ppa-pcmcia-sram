@@ -42,8 +42,6 @@ Thank you for purchasing Sakura 4MB PCMCIA SRAM expansion! This product has the 
 	\item Made by Amigans for Amigans! 
 \end{itemize}
 
-%To reduce the price, card is delivered without any kind of case. The case might be available in the future from 3rd party vendor.
-
 \section*{Installation}
 
 The installation process is very easy. To install the expansion perform the following steps:
@@ -72,7 +70,7 @@ This expansion is a completely autoconfiguring device. Memory is automatically a
 Sakura expansion CIS contains optimal settings that allow best possible PCMCIA slot peformance:
 \begin{itemize}
 	\item On Amiga 600 Gayle chip is configured for 570ns access time by default, which results in performance similar to Fast RAM expansions attached on top of 68000 CPU.
-	\item On Amiga 1200 the default configuration is 250ns access time, but Kickstart automatically reconfigures Gayle for 100ns access, according to CIS. This results in some performance increase compared to an unexpanded Amiga 1200. Contrary to popular opinions, Amiga 1200 equipped with high performance, correclty configured PCMCIA SRAM expansion (like this one) is performing better than Chip RAM only system.
+	\item On Amiga 1200 the default configuration is 250ns access time, but Kickstart automatically reconfigures Gayle for 100ns access, according to CIS. This results in some performance increase compared to an unexpanded Amiga 1200. Contrary to popular opinions, Amiga 1200 equipped with high performance, correctly configured PCMCIA SRAM expansion (like this one) is performing better than Chip RAM only system.
 \end{itemize}
 
 CIS ROM is also implemented within XC9536XL CPLD.
@@ -91,7 +89,7 @@ It is possible to use the Sakura board as temporary virtual disk. To switch the 
 	\item After your card is successfully prepared, reboot the Amiga.
 	\item Notice the new volume named {\tt Empty} on your Workbench screen. Enjoy your temporary 4MB storage.
 
-The card in this mode is handed by device {\tt CC0}, which is provided by the Kickstart.
+Card in this mode is handled by the device {\tt CC0}, which is provided by the Kickstart.
 \end{itemize}
 
 \section*{Troubleshooting}
@@ -102,7 +100,7 @@ The card in this mode is handed by device {\tt CC0}, which is provided by the Ki
 \end{itemize}
 
 \begin{itemize}
-	\item Q: The memory is not automatially added to the system if Sakura card is inserted when Amiga is already powered on. 
+	\item Q: The memory is not automatically added to the system if Sakura card is inserted when Amiga is already powered on. 
 	\item A: The probe procedure for PCMCIA memory is executed only during system startup. Reboot the Amiga to see the additional memory. 
 \end{itemize}
 
@@ -124,7 +122,7 @@ All schematics and board layout files are licensed under Creative Commons Attrib
 
 The card is made in Poland and conforms to RoHS standard. 
 
-All new cards sold through our exclusive dealer, RetroAmi, are covered by 24 months warranty. Due to open source nature of the project, note that {\bf only} cards produced by us (and therefore sold through RetroAmi) are covered by this warranty. In case of necessary service repairs please contact the shop directly. Do not attempt to repair the card yourself, it will void warranty. Do not remove the sticker on the back of the card - it contains serial number. Please save the invoice/bill as a proof of transaction.
+All new cards sold through our exclusive dealer, RetroAmi, are covered by 24 months warranty. Due to open source nature of the project, note that {\bf only} cards produced by us (and therefore sold through RetroAmi) are covered by this warranty. In case of necessary service repairs please contact the shop directly. Do not attempt to repair the card yourself, it will void the warranty. Do not remove the sticker on the back of the card - it contains serial number. Please save the invoice/bill as a proof of transaction.
 
 Thanks to everyone who preordered the board - you made this project happen!
 
