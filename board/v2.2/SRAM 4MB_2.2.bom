@@ -1,0 +1,37 @@
+Partlist
+
+Exported from SRAM 4MB_2.2.brd at 2015-10-09 22:37:07
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package          Library                   Position (mil)        Orientation
+
+C1       1uF/6,3V       A/3216-18R       resistor                  (3259.5 2446.25)      R90
+C2       1uF/6,3V       A/3216-18R       resistor                  (2875.75 2446.25)     R90
+C3       0,1uF          C0603            resistor                  (3182 2411.25)        R270
+C4       0,1uF          C0603            resistor                  (2952 2411.25)        R270
+C5       0,1uF          C0402K           resistor                  (2641.25 2236.5)      R270
+C6       0,1uF          C0402K           resistor                  (3165.75 1331.5)      R180
+C7       0,1uF          C0402K           resistor                  (3188.25 1757)        R90
+C8       0,1uF          C0402K           resistor                  (3162 2172.25)        R180
+C9       0,1uF          C0402K           resistor                  (2512 927.5)          R0
+C10      0,1uF          C0402K           resistor                  (2512 1296.25)        R0
+C11      0,1uF          C0402K           resistor                  (2464.75 1637.25)     R270
+C12      0,1uF          C0402K           resistor                  (2330.75 1021.75)     R270
+C13      0,1uF          C0402K           resistor                  (1958.25 834.5)       R270
+C14      0,1uF          C0402K           resistor                  (1706.5 1210.25)      R270
+C15      0,1uF          C0402K           resistor                  (2300 2232)           R90
+IC1      IS66WVE4M16BLL TFBGA48          ISSI_By_element14_Batch_1 (2468 2252)           R0
+IC2      74LCX245MTC    TSSOP20          74xx-us                   (3073.75 1172.5)      R270
+IC3      74LCX245MTC    TSSOP20          74xx-us                   (3075 1578.75)        R270
+IC4      74LCX245MTC    TSSOP20          74xx-us                   (3075 2020)           R270
+IC5      74LCX541TTR    TSSOP20          74xx-us                   (2580.75 1087.5)      R90
+IC6      74LCX541TTR    TSSOP20          74xx-us                   (2580.75 1452.5)      R90
+IC7      74LCX541TTR    TSSOP20          74xx-us                   (2580.75 1808.75)     R90
+IC8      XC9536XL_44VQ  SQFP-S-10X10-44  xilinx-xc9                (2019.5 1170)         R180
+IC9      TLV70033DDCT   SOT95P280X110-5N _V-reg33V                 (3066.25 2442.5)      R90
+JTAG                    MA06-1           con-lstb                  (1768.75 2150)        R90
+SW1      RAM/Disk       SWITCH2          amiga                     (1844 1655)           R90
+X1       PCMCIA female  9M681X04         3M                        (3660 1655)           R270
